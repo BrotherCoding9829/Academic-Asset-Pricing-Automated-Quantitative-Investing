@@ -26,7 +26,7 @@ The initial framework includes:
 
 The general factor model can be written as:
 
-$$
+```math
 R_{i,t} - R_{f,t}
 =
 \alpha_i
@@ -34,7 +34,7 @@ R_{i,t} - R_{f,t}
 \boldsymbol{\beta}_i^{\prime}\mathbf{F}_t
 +
 \epsilon_{i,t}
-$$
+```
 
 where:
 
