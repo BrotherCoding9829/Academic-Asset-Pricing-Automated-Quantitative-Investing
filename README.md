@@ -26,23 +26,23 @@ The initial framework includes:
 
 The general factor model can be written as:
 
-\[
+$$
 R_{i,t} - R_{f,t}
 =
 \alpha_i
 +
-\beta_i' F_t
+\boldsymbol{\beta}_i^{\prime}\mathbf{F}_t
 +
 \epsilon_{i,t}
-\]
+$$
 
 where:
 
-- \(R_{i,t}\): return of asset \(i\)
-- \(R_{f,t}\): risk-free rate
-- \(F_t\): vector of systematic risk factors
-- \(\alpha_i\): abnormal return unexplained by the factor model
-- \(\beta_i\): factor exposures
+- $R_{i,t}$: return of asset $i$
+- $R_{f,t}$: risk-free rate
+- $\mathbf{F}_t$: vector of systematic risk factors
+- $\alpha_i$: abnormal return unexplained by the factor model
+- $\boldsymbol{\beta}_i$: factor exposures
 
 ---
 
