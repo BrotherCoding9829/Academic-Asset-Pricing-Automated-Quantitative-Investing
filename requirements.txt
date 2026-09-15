@@ -5,3 +5,5 @@ statsmodels
 matplotlib
 scikit-learn
 jupyter
+yfinance
+pandas_datareader
